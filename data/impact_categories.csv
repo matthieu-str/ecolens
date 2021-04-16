@@ -1,0 +1,17 @@
+Name ;Unit;EF 3.0 Normalization factor;PEF Guidance: weighting factor non-tox;Recommendation
+Climate change;kg CO2 eq;8097.16599190283;22.19;1
+Ozone depletion;kg CFC11 eq;0.0536480686695279;6.75;1
+Particulate matter;disease inc.;0.000595238095238095;9.54;1
+Acidification;mol H+ eq;55.5555555555555;6.64;2
+Eutrophication, freshwater;kg P eq;1.60694198939418;2.95;2
+Eutrophication, marine;kg N eq;19.5465207193119;3.12;2
+Eutrophication, terrestrial;mol N eq;176.740897843761;3.91;2
+Ionising radiation;kBq U-235 eq;4219.40928270042;5.37;2
+Photochemical ozone formation;kg NMVOC eq;40.6008932196508;5.1;2
+Ecotoxicity, freshwater;CTUe;42680.3243704652;0;3
+Human toxicity, cancer;CTUh;0.0000168995994794923;0;3
+Human toxicity, non-cancer;CTUh;0.000229673863114377;0;3
+Land use;Pt;819672.131147541;8.42;3
+Resource use, fossils;MJ;65019.5058517555;8.92;3
+Resource use, minerals and metals;kg Sb eq;0.0636537237428389;8.08;3
+Water use;m3 depriv.;11469.2051840807;9.03;3

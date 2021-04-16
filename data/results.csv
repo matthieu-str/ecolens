@@ -1,0 +1,29 @@
+Name;Category;Inventory result;Unit;Impact factor;Unit;Impact result;Unit
+Human toxicity, non-cancer;;;;;;0.0000000892477;CTUh
+Human toxicity, non-cancer - inorganics;;;;;;0.00000000668148;CTUh
+Resource use, fossils;;;;;;33.0375;MJ
+Eutrophication, marine;;;;;;0.02029;kg N eq
+Ecotoxicity, freshwater - inorganics;;;;;;5.61946;CTUe
+Eutrophication, freshwater;;;;;;0.00067;kg P eq
+Human toxicity, cancer - metals;;;;;;0.00000000172725;CTUh
+Climate change;;;;;;3.68056;kg CO2 eq
+Ionising radiation;;;;;;1.03712;kBq U-235 eq
+Human toxicity, cancer - inorganics;;;;;;0;CTUh
+Photochemical ozone formation;;;;;;0.00839;kg NMVOC eq
+Ecotoxicity, freshwater - metals;;;;;;54.82724;CTUe
+Resource use, minerals and metals;;;;;;0.00000448768;kg Sb eq
+Ozone depletion;;;;;;0.000000248083;kg CFC11 eq
+Human toxicity, cancer;;;;;;0.00000000244611;CTUh
+Water use;;;;;;2.51712;m3 depriv.
+Human toxicity, cancer - organics;;;;;;0.000000000718858;CTUh
+Human toxicity, non-cancer - organics;;;;;;0.0000000048204;CTUh
+Ecotoxicity, freshwater;;;;;;85.93944;CTUe
+Eutrophication, terrestrial;;;;;;0.22622;mol N eq
+Human toxicity, non-cancer - metals;;;;;;0.0000000779041;CTUh
+Particulate matter;;;;;;0.000000356668;disease inc.
+Land use;;;;;;273.65203;Pt
+Ecotoxicity, freshwater - organics;;;;;;25.54507;CTUe
+Acidification;;;;;;0.05249;mol H+ eq
+Climate change - Fossil;;;;;;1.76151;kg CO2 eq
+Climate change - Land use and LU change;;;;;;0.22129;kg CO2 eq
+Climate change - Biogenic;;;;;;1.69777;kg CO2 eq
