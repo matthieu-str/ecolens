@@ -1,0 +1,169 @@
+Name;Category;Inventory result;Unit;Impact factor;Unit;Impact result;Unit;Meal
+Human toxicity, non-cancer;;;;;;1.69371E-7;CTUh;Pork meal
+Human toxicity, non-cancer - inorganics;;;;;;1.27260E-8;CTUh;Pork meal
+Resource use, fossils;;;;;;69.04995;MJ;Pork meal
+Eutrophication, marine;;;;;;0.04104;kg N eq;Pork meal
+Ecotoxicity, freshwater - inorganics;;;;;;11.93937;CTUe;Pork meal
+Eutrophication, freshwater;;;;;;0.00122;kg P eq;Pork meal
+Human toxicity, cancer - metals;;;;;;3.53154E-9;CTUh;Pork meal
+Climate change;;;;;;5.12135;kg CO2 eq;Pork meal
+Ionising radiation;;;;;;2.28091;kBq U-235 eq;Pork meal
+Human toxicity, cancer - inorganics;;;;;;0.00000;CTUh;Pork meal
+Photochemical ozone formation;;;;;;0.01575;kg NMVOC eq;Pork meal
+Ecotoxicity, freshwater - metals;;;;;;104.40075;CTUe;Pork meal
+Resource use, minerals and metals;;;;;;7.66140E-6;kg Sb eq;Pork meal
+Ozone depletion;;;;;;4.77715E-7;kg CFC11 eq;Pork meal
+Human toxicity, cancer;;;;;;5.10531E-9;CTUh;Pork meal
+Water use;;;;;;4.40391;m3 depriv.;Pork meal
+Human toxicity, cancer - organics;;;;;;1.57377E-9;CTUh;Pork meal
+Human toxicity, non-cancer - organics;;;;;;6.79694E-9;CTUh;Pork meal
+Ecotoxicity, freshwater;;;;;;169.18794;CTUe;Pork meal
+Eutrophication, terrestrial;;;;;;0.44956;mol N eq;Pork meal
+Human toxicity, non-cancer - metals;;;;;;1.50076E-7;CTUh;Pork meal
+Particulate matter;;;;;;7.14927E-7;disease inc.;Pork meal
+Land use;;;;;;540.80983;Pt;Pork meal
+Ecotoxicity, freshwater - organics;;;;;;52.95183;CTUe;Pork meal
+Acidification;;;;;;0.10352;mol H+ eq;Pork meal
+Climate change - Fossil;;;;;;3.43797;kg CO2 eq;Pork meal
+Climate change - Land use and LU change;;;;;;0.24576;kg CO2 eq;Pork meal
+Climate change - Biogenic;;;;;;1.43763;kg CO2 eq;Pork meal
+Human toxicity, non-cancer;;;;;;2.05461E-7;CTUh;Sandwich
+Human toxicity, non-cancer - inorganics;;;;;;1.26156E-8;CTUh;Sandwich
+Resource use, fossils;;;;;;35.84291;MJ;Sandwich
+Eutrophication, marine;;;;;;0.02093;kg N eq;Sandwich
+Ecotoxicity, freshwater - inorganics;;;;;;8.62747;CTUe;Sandwich
+Eutrophication, freshwater;;;;;;0.00098;kg P eq;Sandwich
+Human toxicity, cancer - metals;;;;;;2.28647E-9;CTUh;Sandwich
+Climate change;;;;;;3.17415;kg CO2 eq;Sandwich
+Ionising radiation;;;;;;0.73361;kBq U-235 eq;Sandwich
+Human toxicity, cancer - inorganics;;;;;;0.00000;CTUh;Sandwich
+Photochemical ozone formation;;;;;;0.01201;kg NMVOC eq;Sandwich
+Ecotoxicity, freshwater - metals;;;;;;78.07364;CTUe;Sandwich
+Resource use, minerals and metals;;;;;;6.17895E-6;kg Sb eq;Sandwich
+Ozone depletion;;;;;;3.10548E-7;kg CFC11 eq;Sandwich
+Human toxicity, cancer;;;;;;3.30888E-9;CTUh;Sandwich
+Water use;;;;;;4.28512;m3 depriv.;Sandwich
+Human toxicity, cancer - organics;;;;;;1.02241E-9;CTUh;Sandwich
+Human toxicity, non-cancer - organics;;;;;;7.17704E-9;CTUh;Sandwich
+Ecotoxicity, freshwater;;;;;;156.25921;CTUe;Sandwich
+Eutrophication, terrestrial;;;;;;0.23625;mol N eq;Sandwich
+Human toxicity, non-cancer - metals;;;;;;1.85827E-7;CTUh;Sandwich
+Particulate matter;;;;;;3.92012E-7;disease inc.;Sandwich
+Land use;;;;;;280.25581;Pt;Sandwich
+Ecotoxicity, freshwater - organics;;;;;;69.64421;CTUe;Sandwich
+Acidification;;;;;;0.05667;mol H+ eq;Sandwich
+Climate change - Fossil;;;;;;2.39133;kg CO2 eq;Sandwich
+Climate change - Land use and LU change;;;;;;0.71232;kg CO2 eq;Sandwich
+Climate change - Biogenic;;;;;;0.07051;kg CO2 eq;Sandwich
+Human toxicity, non-cancer;;;;;;8.26939E-8;CTUh;Tartiflette
+Human toxicity, non-cancer - inorganics;;;;;;7.17470E-9;CTUh;Tartiflette
+Resource use, fossils;;;;;;27.74050;MJ;Tartiflette
+Eutrophication, marine;;;;;;0.01797;kg N eq;Tartiflette
+Ecotoxicity, freshwater - inorganics;;;;;;5.24674;CTUe;Tartiflette
+Eutrophication, freshwater;;;;;;0.00060;kg P eq;Tartiflette
+Human toxicity, cancer - metals;;;;;;1.51584E-9;CTUh;Tartiflette
+Climate change;;;;;;3.41677;kg CO2 eq;Tartiflette
+Ionising radiation;;;;;;0.88726;kBq U-235 eq;Tartiflette
+Human toxicity, cancer - inorganics;;;;;;0.00000;CTUh;Tartiflette
+Photochemical ozone formation;;;;;;0.00753;kg NMVOC eq;Tartiflette
+Ecotoxicity, freshwater - metals;;;;;;51.55535;CTUe;Tartiflette
+Resource use, minerals and metals;;;;;;3.89056E-6;kg Sb eq;Tartiflette
+Ozone depletion;;;;;;2.26000E-7;kg CFC11 eq;Tartiflette
+Human toxicity, cancer;;;;;;2.20092E-9;CTUh;Tartiflette
+Water use;;;;;;2.26642;m3 depriv.;Tartiflette
+Human toxicity, cancer - organics;;;;;;6.85085E-10;CTUh;Tartiflette
+Human toxicity, non-cancer - organics;;;;;;5.02223E-9;CTUh;Tartiflette
+Ecotoxicity, freshwater;;;;;;80.14944;CTUe;Tartiflette
+Eutrophication, terrestrial;;;;;;0.19917;mol N eq;Tartiflette
+Human toxicity, non-cancer - metals;;;;;;7.06325E-8;CTUh;Tartiflette
+Particulate matter;;;;;;3.17000E-7;disease inc.;Tartiflette
+Land use;;;;;;245.33964;Pt;Tartiflette
+Ecotoxicity, freshwater - organics;;;;;;23.39826;CTUe;Tartiflette
+Acidification;;;;;;0.04628;mol H+ eq;Tartiflette
+Climate change - Fossil;;;;;;1.53677;kg CO2 eq;Tartiflette
+Climate change - Land use and LU change;;;;;;0.26148;kg CO2 eq;Tartiflette
+Climate change - Biogenic;;;;;;1.61852;kg CO2 eq;Tartiflette
+Human toxicity, non-cancer;;;;;;3.53469E-7;CTUh;Pasta
+Human toxicity, non-cancer - inorganics;;;;;;3.61865E-8;CTUh;Pasta
+Resource use, fossils;;;;;;67.40276;MJ;Pasta
+Eutrophication, marine;;;;;;0.07621;kg N eq;Pasta
+Ecotoxicity, freshwater - inorganics;;;;;;22.20454;CTUe;Pasta
+Eutrophication, freshwater;;;;;;0.00232;kg P eq;Pasta
+Human toxicity, cancer - metals;;;;;;6.61908E-9;CTUh;Pasta
+Climate change;;;;;;16.62409;kg CO2 eq;Pasta
+Ionising radiation;;;;;;1.27361;kBq U-235 eq;Pasta
+Human toxicity, cancer - inorganics;;;;;;0.00000;CTUh;Pasta
+Photochemical ozone formation;;;;;;0.03735;kg NMVOC eq;Pasta
+Ecotoxicity, freshwater - metals;;;;;;124.48013;CTUe;Pasta
+Resource use, minerals and metals;;;;;;2.29715E-5;kg Sb eq;Pasta
+Ozone depletion;;;;;;7.01419E-7;kg CFC11 eq;Pasta
+Human toxicity, cancer;;;;;;9.35451E-9;CTUh;Pasta
+Water use;;;;;;34.37299;m3 depriv.;Pasta
+Human toxicity, cancer - organics;;;;;;2.73543E-9;CTUh;Pasta
+Human toxicity, non-cancer - organics;;;;;;2.32222E-8;CTUh;Pasta
+Ecotoxicity, freshwater;;;;;;193.16488;CTUe;Pasta
+Eutrophication, terrestrial;;;;;;0.77619;mol N eq;Pasta
+Human toxicity, non-cancer - metals;;;;;;2.94686E-7;CTUh;Pasta
+Particulate matter;;;;;;1.27275E-6;disease inc.;Pasta
+Land use;;;;;;991.65727;Pt;Pasta
+Ecotoxicity, freshwater - organics;;;;;;46.71215;CTUe;Pasta
+Acidification;;;;;;0.18257;mol H+ eq;Pasta
+Climate change - Fossil;;;;;;6.32863;kg CO2 eq;Pasta
+Climate change - Land use and LU change;;;;;;1.87642;kg CO2 eq;Pasta
+Climate change - Biogenic;;;;;;8.41904;kg CO2 eq;Pasta
+Human toxicity, non-cancer;;;;;;7.29258E-8;CTUh;Paella
+Human toxicity, non-cancer - inorganics;;;;;;8.05693E-9;CTUh;Paella
+Resource use, fossils;;;;;;33.95224;MJ;Paella
+Eutrophication, marine;;;;;;0.01612;kg N eq;Paella
+Ecotoxicity, freshwater - inorganics;;;;;;6.56399;CTUe;Paella
+Eutrophication, freshwater;;;;;;0.00043;kg P eq;Paella
+Human toxicity, cancer - metals;;;;;;1.06718E-9;CTUh;Paella
+Climate change;;;;;;2.43402;kg CO2 eq;Paella
+Ionising radiation;;;;;;0.67633;kBq U-235 eq;Paella
+Human toxicity, cancer - inorganics;;;;;;0.00000;CTUh;Paella
+Photochemical ozone formation;;;;;;0.02432;kg NMVOC eq;Paella
+Ecotoxicity, freshwater - metals;;;;;;37.49059;CTUe;Paella
+Resource use, minerals and metals;;;;;;4.49401E-6;kg Sb eq;Paella
+Ozone depletion;;;;;;3.65175E-7;kg CFC11 eq;Paella
+Human toxicity, cancer;;;;;;1.89882E-9;CTUh;Paella
+Water use;;;;;;4.39768;m3 depriv.;Paella
+Human toxicity, cancer - organics;;;;;;8.31638E-10;CTUh;Paella
+Human toxicity, non-cancer - organics;;;;;;2.81381E-9;CTUh;Paella
+Ecotoxicity, freshwater;;;;;;56.76530;CTUe;Paella
+Eutrophication, terrestrial;;;;;;0.17368;mol N eq;Paella
+Human toxicity, non-cancer - metals;;;;;;6.21652E-8;CTUh;Paella
+Particulate matter;;;;;;3.58894E-7;disease inc.;Paella
+Land use;;;;;;106.68870;Pt;Paella
+Ecotoxicity, freshwater - organics;;;;;;12.83421;CTUe;Paella
+Acidification;;;;;;0.05240;mol H+ eq;Paella
+Climate change - Fossil;;;;;;1.97816;kg CO2 eq;Paella
+Climate change - Land use and LU change;;;;;;0.18859;kg CO2 eq;Paella
+Climate change - Biogenic;;;;;;0.26727;kg CO2 eq;Paella
+Human toxicity, non-cancer;;;;;;8.92477E-8;CTUh;Pizza
+Human toxicity, non-cancer - inorganics;;;;;;6.68148E-9;CTUh;Pizza
+Resource use, fossils;;;;;;33.03750;MJ;Pizza
+Eutrophication, marine;;;;;;0.02029;kg N eq;Pizza
+Ecotoxicity, freshwater - inorganics;;;;;;5.61946;CTUe;Pizza
+Eutrophication, freshwater;;;;;;0.00067;kg P eq;Pizza
+Human toxicity, cancer - metals;;;;;;1.72725E-9;CTUh;Pizza
+Climate change;;;;;;3.68056;kg CO2 eq;Pizza
+Ionising radiation;;;;;;1.03712;kBq U-235 eq;Pizza
+Human toxicity, cancer - inorganics;;;;;;0.00000;CTUh;Pizza
+Photochemical ozone formation;;;;;;0.00839;kg NMVOC eq;Pizza
+Ecotoxicity, freshwater - metals;;;;;;54.82724;CTUe;Pizza
+Resource use, minerals and metals;;;;;;4.48768E-6;kg Sb eq;Pizza
+Ozone depletion;;;;;;2.48083E-7;kg CFC11 eq;Pizza
+Human toxicity, cancer;;;;;;2.44611E-9;CTUh;Pizza
+Water use;;;;;;2.51712;m3 depriv.;Pizza
+Human toxicity, cancer - organics;;;;;;7.18858E-10;CTUh;Pizza
+Human toxicity, non-cancer - organics;;;;;;4.82040E-9;CTUh;Pizza
+Ecotoxicity, freshwater;;;;;;85.93944;CTUe;Pizza
+Eutrophication, terrestrial;;;;;;0.22622;mol N eq;Pizza
+Human toxicity, non-cancer - metals;;;;;;7.79041E-8;CTUh;Pizza
+Particulate matter;;;;;;3.56668E-7;disease inc.;Pizza
+Land use;;;;;;273.65203;Pt;Pizza
+Ecotoxicity, freshwater - organics;;;;;;25.54507;CTUe;Pizza
+Acidification;;;;;;0.05249;mol H+ eq;Pizza
+Climate change - Fossil;;;;;;1.76151;kg CO2 eq;Pizza
+Climate change - Land use and LU change;;;;;;0.22129;kg CO2 eq;Pizza
+Climate change - Biogenic;;;;;;1.69777;kg CO2 eq;Pizza
