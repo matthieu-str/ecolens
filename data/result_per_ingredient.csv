@@ -1,0 +1,129 @@
+Impact category;Contribution;Process;Amount;Unit
+Human toxicity, non-cancer;100.00%;Pizza, vegetables or pizza 4 seasons, at plant - FR;8.92477E-8;CTUh
+Human toxicity, non-cancer;48.72%;Mozzarella cheese, from cow's milk, at plant - FR;4.34785E-8;CTUh
+Human toxicity, non-cancer;41.53%;Cooked ham, case ready, at plant - FR;3.70639E-8;CTUh
+Human toxicity, non-cancer;04.75%;Cooking, industrial, 1kg of cooked product (AGB 3.0)/ - FR;4.23550E-9;CTUh
+Human toxicity, non-cancer;03.69%;Tomato, for processing, peeled, at plant - FR;3.29081E-9;CTUh
+Human toxicity, non-cancer;00.70%;Wheat flour, at industrial mill - FR;6.25125E-10;CTUh
+Human toxicity, non-cancer;00.62%;Mushroom, peeled, at processing - FR;5.51124E-10;CTUh
+Human toxicity, non-cancer;00.00%;Water, municipal - FR;2.79347E-12;CTUh
+Human toxicity, cancer;100.00%;Pizza, vegetables or pizza 4 seasons, at plant - FR;2.44611E-9;CTUh
+Human toxicity, cancer;50.16%;Cooked ham, case ready, at plant - FR;1.22698E-9;CTUh
+Human toxicity, cancer;36.12%;Mozzarella cheese, from cow's milk, at plant - FR;8.83608E-10;CTUh
+Human toxicity, cancer;06.06%;Wheat flour, at industrial mill - FR;1.48339E-10;CTUh
+Human toxicity, cancer;03.95%;Cooking, industrial, 1kg of cooked product (AGB 3.0)/ - FR;9.67340E-11;CTUh
+Human toxicity, cancer;02.88%;Tomato, for processing, peeled, at plant - FR;7.05530E-11;CTUh
+Human toxicity, cancer;00.81%;Mushroom, peeled, at processing - FR;1.97697E-11;CTUh
+Human toxicity, cancer;00.01%;Water, municipal - FR;1.25109E-13;CTUh
+Acidification;100.00%;Pizza, vegetables or pizza 4 seasons, at plant - FR;0.05249;mol H+ eq
+Acidification;49.22%;Cooked ham, case ready, at plant - FR;0.02584;mol H+ eq
+Acidification;43.61%;Mozzarella cheese, from cow's milk, at plant - FR;0.02289;mol H+ eq
+Acidification;04.00%;Wheat flour, at industrial mill - FR;0.00210;mol H+ eq
+Acidification;02.04%;Cooking, industrial, 1kg of cooked product (AGB 3.0)/ - FR;0.00107;mol H+ eq
+Acidification;00.81%;Tomato, for processing, peeled, at plant - FR;0.00042;mol H+ eq
+Acidification;00.32%;Mushroom, peeled, at processing - FR;0.00017;mol H+ eq
+Acidification;00.00%;Water, municipal - FR;3.34425E-7;mol H+ eq
+Climate change;100.00%;Pizza, vegetables or pizza 4 seasons, at plant - FR;3.68056;kg CO2 eq
+Climate change;58.06%;Mozzarella cheese, from cow's milk, at plant - FR;2.13684;kg CO2 eq
+Climate change;33.90%;Cooked ham, case ready, at plant - FR;1.24787;kg CO2 eq
+Climate change;03.51%;Cooking, industrial, 1kg of cooked product (AGB 3.0)/ - FR;0.12907;kg CO2 eq
+Climate change;02.72%;Wheat flour, at industrial mill - FR;0.10021;kg CO2 eq
+Climate change;01.40%;Tomato, for processing, peeled, at plant - FR;0.05159;kg CO2 eq
+Climate change;00.41%;Mushroom, peeled, at processing - FR;0.01493;kg CO2 eq
+Climate change;00.00%;Water, municipal - FR;4.76468E-5;kg CO2 eq
+Ecotoxicity, freshwater;100.00%;Pizza, vegetables or pizza 4 seasons, at plant - FR;85.93944;CTUe
+Ecotoxicity, freshwater;44.67%;Cooked ham, case ready, at plant - FR;38.39027;CTUe
+Ecotoxicity, freshwater;40.70%;Mozzarella cheese, from cow's milk, at plant - FR;34.97409;CTUe
+Ecotoxicity, freshwater;06.15%;Wheat flour, at industrial mill - FR;5.28915;CTUe
+Ecotoxicity, freshwater;03.67%;Tomato, for processing, peeled, at plant - FR;3.15446;CTUe
+Ecotoxicity, freshwater;03.22%;Cooking, industrial, 1kg of cooked product (AGB 3.0)/ - FR;2.76895;CTUe
+Ecotoxicity, freshwater;01.58%;Mushroom, peeled, at processing - FR;1.36171;CTUe
+Ecotoxicity, freshwater;00.00%;Water, municipal - FR;0.00083;CTUe
+Eutrophication, freshwater;100.00%;Pizza, vegetables or pizza 4 seasons, at plant - FR;0.00067;kg P eq
+Eutrophication, freshwater;44.32%;Cooked ham, case ready, at plant - FR;0.00030;kg P eq
+Eutrophication, freshwater;43.53%;Mozzarella cheese, from cow's milk, at plant - FR;0.00029;kg P eq
+Eutrophication, freshwater;05.23%;Wheat flour, at industrial mill - FR;3.50419E-5;kg P eq
+Eutrophication, freshwater;04.53%;Cooking, industrial, 1kg of cooked product (AGB 3.0)/ - FR;3.03369E-5;kg P eq
+Eutrophication, freshwater;01.48%;Tomato, for processing, peeled, at plant - FR;9.94807E-6;kg P eq
+Eutrophication, freshwater;00.90%;Mushroom, peeled, at processing - FR;6.06093E-6;kg P eq
+Eutrophication, freshwater;00.01%;Water, municipal - FR;3.67830E-8;kg P eq
+Eutrophication, marine;100.00%;Pizza, vegetables or pizza 4 seasons, at plant - FR;0.02029;kg N eq
+Eutrophication, marine;49.56%;Cooked ham, case ready, at plant - FR;0.01006;kg N eq
+Eutrophication, marine;37.59%;Mozzarella cheese, from cow's milk, at plant - FR;0.00763;kg N eq
+Eutrophication, marine;07.27%;Wheat flour, at industrial mill - FR;0.00148;kg N eq
+Eutrophication, marine;04.07%;Cooking, industrial, 1kg of cooked product (AGB 3.0)/ - FR;0.00083;kg N eq
+Eutrophication, marine;01.05%;Mushroom, peeled, at processing - FR;0.00021;kg N eq
+Eutrophication, marine;00.45%;Tomato, for processing, peeled, at plant - FR;9.17622E-5;kg N eq
+Eutrophication, marine;00.00%;Water, municipal - FR;5.42251E-8;kg N eq
+Eutrophication, terrestrial;100.00%;Pizza, vegetables or pizza 4 seasons, at plant - FR;0.22622;mol N eq
+Eutrophication, terrestrial;49.72%;Cooked ham, case ready, at plant - FR;0.11247;mol N eq
+Eutrophication, terrestrial;43.54%;Mozzarella cheese, from cow's milk, at plant - FR;0.09850;mol N eq
+Eutrophication, terrestrial;04.05%;Wheat flour, at industrial mill - FR;0.00917;mol N eq
+Eutrophication, terrestrial;01.74%;Cooking, industrial, 1kg of cooked product (AGB 3.0)/ - FR;0.00395;mol N eq
+Eutrophication, terrestrial;00.67%;Tomato, for processing, peeled, at plant - FR;0.00152;mol N eq
+Eutrophication, terrestrial;00.27%;Mushroom, peeled, at processing - FR;0.00062;mol N eq
+Eutrophication, terrestrial;00.00%;Water, municipal - FR;7.42509E-7;mol N eq
+Ionising radiation;100.00%;Pizza, vegetables or pizza 4 seasons, at plant - FR;1.03712;kBq U-235 eq
+Ionising radiation;40.80%;Cooking, industrial, 1kg of cooked product (AGB 3.0)/ - FR;0.42310;kBq U-235 eq
+Ionising radiation;40.37%;Cooked ham, case ready, at plant - FR;0.41867;kBq U-235 eq
+Ionising radiation;15.50%;Mozzarella cheese, from cow's milk, at plant - FR;0.16079;kBq U-235 eq
+Ionising radiation;01.94%;Wheat flour, at industrial mill - FR;0.02014;kBq U-235 eq
+Ionising radiation;00.92%;Tomato, for processing, peeled, at plant - FR;0.00958;kBq U-235 eq
+Ionising radiation;00.47%;Mushroom, peeled, at processing - FR;0.00484;kBq U-235 eq
+Ionising radiation;00.00%;Water, municipal - FR;1.69786E-5;kBq U-235 eq
+Land use;100.00%;Pizza, vegetables or pizza 4 seasons, at plant - FR;273.65203;Pt
+Land use;47.81%;Cooked ham, case ready, at plant - FR;130.83271;Pt
+Land use;44.31%;Mozzarella cheese, from cow's milk, at plant - FR;121.26620;Pt
+Land use;06.96%;Wheat flour, at industrial mill - FR;19.04943;Pt
+Land use;00.94%;Cooking, industrial, 1kg of cooked product (AGB 3.0)/ - FR;2.57018;Pt
+Land use;00.63%;Mushroom, peeled, at processing - FR;1.71182;Pt
+Land use;00.00%;Water, municipal - FR;0.00019;Pt
+Land use;-00.65%;Tomato, for processing, peeled, at plant - FR;-1.77849;Pt
+Ozone depletion;100.00%;Pizza, vegetables or pizza 4 seasons, at plant - FR;2.48083E-7;kg CFC11 eq
+Ozone depletion;40.54%;Cooked ham, case ready, at plant - FR;1.00585E-7;kg CFC11 eq
+Ozone depletion;32.92%;Mozzarella cheese, from cow's milk, at plant - FR;8.16611E-8;kg CFC11 eq
+Ozone depletion;18.43%;Cooking, industrial, 1kg of cooked product (AGB 3.0)/ - FR;4.57213E-8;kg CFC11 eq
+Ozone depletion;03.86%;Wheat flour, at industrial mill - FR;9.56641E-9;kg CFC11 eq
+Ozone depletion;03.15%;Tomato, for processing, peeled, at plant - FR;7.82483E-9;kg CFC11 eq
+Ozone depletion;01.10%;Mushroom, peeled, at processing - FR;2.72038E-9;kg CFC11 eq
+Ozone depletion;00.00%;Water, municipal - FR;4.07540E-12;kg CFC11 eq
+Particulate matter;100.00%;Pizza, vegetables or pizza 4 seasons, at plant - FR;3.56668E-7;disease inc.
+Particulate matter;49.28%;Cooked ham, case ready, at plant - FR;1.75757E-7;disease inc.
+Particulate matter;43.45%;Mozzarella cheese, from cow's milk, at plant - FR;1.54965E-7;disease inc.
+Particulate matter;03.79%;Wheat flour, at industrial mill - FR;1.35115E-8;disease inc.
+Particulate matter;02.21%;Cooking, industrial, 1kg of cooked product (AGB 3.0)/ - FR;7.88905E-9;disease inc.
+Particulate matter;00.92%;Tomato, for processing, peeled, at plant - FR;3.29281E-9;disease inc.
+Particulate matter;00.35%;Mushroom, peeled, at processing - FR;1.25016E-9;disease inc.
+Particulate matter;00.00%;Water, municipal - FR;2.67415E-12;disease inc.
+Photochemical ozone formation;100.00%;Pizza, vegetables or pizza 4 seasons, at plant - FR;0.00839;kg NMVOC eq
+Photochemical ozone formation;44.66%;Cooked ham, case ready, at plant - FR;0.00375;kg NMVOC eq
+Photochemical ozone formation;43.69%;Mozzarella cheese, from cow's milk, at plant - FR;0.00367;kg NMVOC eq
+Photochemical ozone formation;04.97%;Wheat flour, at industrial mill - FR;0.00042;kg NMVOC eq
+Photochemical ozone formation;03.66%;Cooking, industrial, 1kg of cooked product (AGB 3.0)/ - FR;0.00031;kg NMVOC eq
+Photochemical ozone formation;02.12%;Tomato, for processing, peeled, at plant - FR;0.00018;kg NMVOC eq
+Photochemical ozone formation;00.91%;Mushroom, peeled, at processing - FR;7.60528E-5;kg NMVOC eq
+Photochemical ozone formation;00.00%;Water, municipal - FR;1.61709E-7;kg NMVOC eq
+Resource use, fossils;100.00%;Pizza, vegetables or pizza 4 seasons, at plant - FR;33.03750;MJ
+Resource use, fossils;42.15%;Cooked ham, case ready, at plant - FR;13.92395;MJ
+Resource use, fossils;29.31%;Cooking, industrial, 1kg of cooked product (AGB 3.0)/ - FR;9.68387;MJ
+Resource use, fossils;22.24%;Mozzarella cheese, from cow's milk, at plant - FR;7.34757;MJ
+Resource use, fossils;02.95%;Wheat flour, at industrial mill - FR;0.97355;MJ
+Resource use, fossils;02.65%;Tomato, for processing, peeled, at plant - FR;0.87457;MJ
+Resource use, fossils;00.71%;Mushroom, peeled, at processing - FR;0.23339;MJ
+Resource use, fossils;00.00%;Water, municipal - FR;0.00060;MJ
+Resource use, minerals and metals;100.00%;Pizza, vegetables or pizza 4 seasons, at plant - FR;4.48768E-6;kg Sb eq
+Resource use, minerals and metals;37.32%;Cooked ham, case ready, at plant - FR;1.67464E-6;kg Sb eq
+Resource use, minerals and metals;32.89%;Mozzarella cheese, from cow's milk, at plant - FR;1.47586E-6;kg Sb eq
+Resource use, minerals and metals;18.05%;Tomato, for processing, peeled, at plant - FR;8.10185E-7;kg Sb eq
+Resource use, minerals and metals;05.51%;Cooking, industrial, 1kg of cooked product (AGB 3.0)/ - FR;2.47274E-7;kg Sb eq
+Resource use, minerals and metals;04.10%;Wheat flour, at industrial mill - FR;1.83889E-7;kg Sb eq
+Resource use, minerals and metals;02.13%;Mushroom, peeled, at processing - FR;9.56838E-8;kg Sb eq
+Resource use, minerals and metals;00.00%;Water, municipal - FR;1.38321E-10;kg Sb eq
+Water use;100.00%;Pizza, vegetables or pizza 4 seasons, at plant - FR;2.51712;m3 depriv.
+Water use;36.57%;Cooked ham, case ready, at plant - FR;0.92050;m3 depriv.
+Water use;30.16%;Mozzarella cheese, from cow's milk, at plant - FR;0.75926;m3 depriv.
+Water use;13.87%;Tomato, for processing, peeled, at plant - FR;0.34917;m3 depriv.
+Water use;11.72%;Mushroom, peeled, at processing - FR;0.29488;m3 depriv.
+Water use;05.21%;Cooking, industrial, 1kg of cooked product (AGB 3.0)/ - FR;0.13113;m3 depriv.
+Water use;02.24%;Wheat flour, at industrial mill - FR;0.05646;m3 depriv.
+Water use;00.23%;Water, municipal - FR;0.00572;m3 depriv.
